@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on full-stack web development
 - 📫 How to reach me email:rohanjoshi7678@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like dogs
 
 <!---
 RohanJoshi2/RohanJoshi2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
