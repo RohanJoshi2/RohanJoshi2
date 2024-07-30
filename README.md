@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohanJoshi2
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on full-stack web development
 - 📫 How to reach me email:rohanjoshi7678@gmail.com
 - 😄 Pronouns: he/him
